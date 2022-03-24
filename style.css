@@ -1,0 +1,28 @@
+#formular1 {
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 0.3in;
+    width: 8.5in;
+    height: 11.5in;
+    background-color: rgb(250, 255, 255);
+    box-shadow: 0 3px 8px -3px rgba(0, 0, 0, 0.7);
+}
+
+input:radio {
+    float: left;
+}
+
+h1 {
+    padding: 2px;
+    margin-bottom: 5px;
+}
+
+#formular2-container {
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 0.3in;
+    width: 8.5in;
+    height: 14in;
+    background-color: rgb(250, 255, 255);
+    box-shadow: 0 3px 8px -3px rgba(0, 0, 0, 0.7);
+}
